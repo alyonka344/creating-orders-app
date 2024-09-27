@@ -1,0 +1,6 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/WebApplication1/.idea/*
+/WebApplication1/WebApplication1/bin/*
+/WebApplication1/WebApplication1/obj/*
+
